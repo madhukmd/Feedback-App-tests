@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Feedback-App-tests/static/css/main.958f48cb.chunk.css",
+    "main.js": "/Feedback-App-tests/static/js/main.d5b9a721.chunk.js",
+    "main.js.map": "/Feedback-App-tests/static/js/main.d5b9a721.chunk.js.map",
+    "runtime-main.js": "/Feedback-App-tests/static/js/runtime-main.162ebd0c.js",
+    "runtime-main.js.map": "/Feedback-App-tests/static/js/runtime-main.162ebd0c.js.map",
+    "static/js/2.da335e06.chunk.js": "/Feedback-App-tests/static/js/2.da335e06.chunk.js",
+    "static/js/2.da335e06.chunk.js.map": "/Feedback-App-tests/static/js/2.da335e06.chunk.js.map",
+    "index.html": "/Feedback-App-tests/index.html",
+    "static/css/main.958f48cb.chunk.css.map": "/Feedback-App-tests/static/css/main.958f48cb.chunk.css.map",
+    "static/js/2.da335e06.chunk.js.LICENSE.txt": "/Feedback-App-tests/static/js/2.da335e06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.162ebd0c.js",
+    "static/js/2.da335e06.chunk.js",
+    "static/css/main.958f48cb.chunk.css",
+    "static/js/main.d5b9a721.chunk.js"
+  ]
+}
